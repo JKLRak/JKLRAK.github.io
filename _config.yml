@@ -1,8 +1,9 @@
-title: TIOBE sites ranking
-description: Static website displaying TIOBE sites top 20
+title: TIOBE Sites Ranking
+description: Static website displaying TIOBE's top 20 programming languages.
 url: "https://jklrak.github.io"
+baseurl: "" 
 
-theme: swiss 
+theme: jekyll-theme-swiss 
 plugins:
   - jekyll-feed
 
