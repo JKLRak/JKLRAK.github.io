@@ -1,2 +1,10 @@
-theme: jekyll-theme-minimal
-title: Jacek Rak WWW1
+title: TIOBE sites ranking
+description: Static website displaying TIOBE sites top 20
+url: "https://jklrak.github.io"
+
+theme: swiss 
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+permalink: pretty
