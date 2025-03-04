@@ -2,6 +2,6 @@
 
 ![Go](images/Go.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Go_(programming_language)
 

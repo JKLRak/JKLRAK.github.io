@@ -2,6 +2,6 @@
 
 ![COBOL](images/COBOL.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/COBOL
 

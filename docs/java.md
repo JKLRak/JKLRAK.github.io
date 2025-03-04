@@ -2,6 +2,6 @@
 
 ![Java](images/Java.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Java_(programming_language)
 

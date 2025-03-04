@@ -2,6 +2,6 @@
 
 ![Rust](images/Rust.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Rust_(programming_language)
 

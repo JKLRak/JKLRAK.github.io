@@ -2,6 +2,6 @@
 
 ![C++](images/C++.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/C%2B%2B
 

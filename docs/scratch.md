@@ -2,6 +2,6 @@
 
 ![Scratch](images/Scratch.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Scratch_(programming_language)
 

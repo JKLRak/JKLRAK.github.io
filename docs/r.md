@@ -2,6 +2,6 @@
 
 ![R](images/R.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/R_(programming_language)
 

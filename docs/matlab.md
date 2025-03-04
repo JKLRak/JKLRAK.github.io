@@ -2,6 +2,6 @@
 
 ![MATLAB](images/MATLAB.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/MATLAB
 

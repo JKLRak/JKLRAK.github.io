@@ -2,6 +2,6 @@
 
 ![JavaScript](images/JavaScript.png)
 
-## Description:
+## Link:
 https://zh.wikipedia.org/wiki/w:JavaScript
 

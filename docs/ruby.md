@@ -2,6 +2,6 @@
 
 ![Ruby](images/Ruby.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Ruby_(programming_language)
 

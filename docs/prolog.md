@@ -2,6 +2,6 @@
 
 ![Prolog](images/Prolog.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Prolog
 

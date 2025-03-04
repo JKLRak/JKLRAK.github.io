@@ -2,6 +2,6 @@
 
 ![SQL](images/SQL.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/SQL
 

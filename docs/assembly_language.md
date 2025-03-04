@@ -2,6 +2,6 @@
 
 ![Assembly language](images/Assembly_language.png)
 
-## Description:
+## Link:
 https://en.wikipedia.org/wiki/Assembly_language
 
