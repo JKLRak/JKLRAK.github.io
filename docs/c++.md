@@ -3,5 +3,5 @@
 ![C++](images/C++.png)
 
 ## Description:
-Could not retrieve information for C++.
+https://en.wikipedia.org/wiki/C%2B%2B
 

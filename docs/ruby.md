@@ -3,5 +3,5 @@
 ![Ruby](images/Ruby.png)
 
 ## Description:
-https://en.wikipedia.org/wiki/Scratch_(programming_language)
+https://en.wikipedia.org/wiki/Ruby_(programming_language)
 
