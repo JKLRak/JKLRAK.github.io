@@ -6,7 +6,7 @@
 - 2: [C++](c++.md)
 - 3: [Java](java.md)
 - 4: [C](c.md)
-- 5: [C#](c#.md)
+- 5: [C/#](c_#.md)
 - 6: [JavaScript](javascript.md)
 - 7: [SQL](sql.md)
 - 8: [Go](go.md)

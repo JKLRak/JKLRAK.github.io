@@ -3,5 +3,5 @@
 ![COBOL](images/COBOL.png)
 
 ## Description:
-Could not retrieve information for COBOL.
+https://en.wikipedia.org/wiki/Scratch_(programming_language)
 
