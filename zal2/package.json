@@ -1,0 +1,10 @@
+{
+  "name": "www2",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss build styles.css -o output.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
