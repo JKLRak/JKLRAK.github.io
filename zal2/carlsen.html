@@ -1,18 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Magnus Carlsen</title>
+    <title>Magnus Carlsen - Chess Champion</title>
+    <meta charset="UTF-8">
     <link rel="stylesheet" href="output.css">
     <link rel="stylesheet" href="styles.css">
-    <meta charset="UTF-8">
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <main>
-        <section id="Links">
-            <h2>Links</h2>
-            <a href="https://ratings.fide.com/profile/1503014" class="text-lime-950 hover:text-sky-700" target="_blank">FIDE page</a><br>
-            <a href="https://x.com/magnuscarlsen" class="text-sky-500 hover:text-sky-700" target="_blank">Twitter page</a>
+<body class="bg-gray-100 min-h-screen">
+    <header class="bg-white shadow-md">
+        <nav class="container mx-auto px-4 py-3">
+            <a href="strona.html" class="text-red-500 hover:text-red-700 font-medium transition-colors duration-200">
+                ← Back to Home
+            </a>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <section class="mb-8 p-6 bg-[#50d71e] rounded-lg shadow-md">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">External Links</h2>
+            <ul class="space-y-3">
+                <li>
+                    <a href="https://ratings.fide.com/profile/1503014" 
+                       class="text-lime-950 hover:text-sky-700 font-medium underline underline-offset-4 transition-colors duration-200"
+                       target="_blank" rel="noopener noreferrer">
+                        Official FIDE Rating Profile
+                    </a>
+                </li>
+                <li>
+                    <a href="https://x.com/magnuscarlsen" 
+                       class="text-lime-950 hover:text-sky-700 font-medium underline underline-offset-4 transition-colors duration-200"
+                       target="_blank" rel="noopener noreferrer">
+                        Twitter Profile
+                    </a>
+                </li>
+                <li>
+                    <a href="https://en.wikipedia.org/wiki/Magnus_Carlsen" 
+                    class="text-lime-950 hover:text-sky-700 font-medium underline underline-offset-4 transition-colors duration-200"
+                    target="_blank" rel="noopener noreferrer">
+                     English Wikipedia
+                    </a>
+                </li>
+            </ul>
+        </section>
+        <section class="mb-8 p-6 bg-[#50d71e] rounded-lg shadow-md">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">Fun Image</h2>
+                <ul class="space-y-3">
+                    <li>
+                        <a href="https://i.redd.it/fa1htj4b8gi61.png" target="_blank">
+                            <img class="rounded mb-2 mx-auto block sm:ml-4 small-img" src="https://i.redd.it/fa1htj4b8gi61.png" alt="Carlsen" />
+                        </a>
+                    </li>
+                </ul>
+            </h2>
         </section>
     </main>
-
 </body>
+</html>

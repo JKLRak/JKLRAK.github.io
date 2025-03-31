@@ -9,8 +9,12 @@ a {
     color: #ff0000;
 }
 h1 {
-    color: #5e6d28;
+    color: #1f2703;
 }
 h2 {
     color:rgb(92, 66, 86);
+}
+.small-img {
+    width: 500px;
+    height: auto; 
 }
